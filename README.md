@@ -1,16 +1,17 @@
-## Hi there 👋
+## Vaoroi TV
 
-<!--
-**vaoroitv3/vaoroitv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vaoroi TV nền tảng cung cấp đường truyền theo dõi bóng đá trực tiếp chất lượng cao không quảng cáo, cập nhật các trận đấu bóng đá chất lượng cao ổn định về đường truyền
 
-Here are some ideas to get you started:
+- Địa chỉ: 70 Nguyễn Văn Siêu, Phú Tài, Thành phố Phan Thiết, Bình Thuận
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SĐT: 0983 333 563
+
+- Website: https://www.stayinabuja.com/
+
+https://www.pinterest.com/vaoroitv3/
+
+https://vimeo.com/vaoroitv3
+
+https://www.youtube.com/channel/UC1Qlms2UWcwyDrGOisZRQZQ
+
+https://www.twitch.tv/vaoroitv3
